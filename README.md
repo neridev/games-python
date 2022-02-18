@@ -1,2 +1,2 @@
-# games-python
+# Games - python
 Games programmed in python
